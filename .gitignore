@@ -1,0 +1,6 @@
+images
+mp3s
+.idea
+__pycache__
+*.apkg
+chromedriver.exe
